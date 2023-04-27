@@ -1,0 +1,10 @@
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR05_BalancedTrees\Ward_PR05_BalancedTrees\bin\Debug\Ward_PR05_BalancedTrees.exe.config
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR05_BalancedTrees\Ward_PR05_BalancedTrees\bin\Debug\Ward_PR05_BalancedTrees.exe
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR05_BalancedTrees\Ward_PR05_BalancedTrees\bin\Debug\Ward_PR05_BalancedTrees.pdb
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR05_BalancedTrees\Ward_PR05_BalancedTrees\obj\Debug\Ward_PR05_BalancedTrees.csprojAssemblyReference.cache
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR05_BalancedTrees\Ward_PR05_BalancedTrees\obj\Debug\Ward_PR05_BalancedTrees.BalancedTree.resources
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR05_BalancedTrees\Ward_PR05_BalancedTrees\obj\Debug\Ward_PR05_BalancedTrees.Properties.Resources.resources
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR05_BalancedTrees\Ward_PR05_BalancedTrees\obj\Debug\Ward_PR05_BalancedTrees.csproj.GenerateResource.cache
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR05_BalancedTrees\Ward_PR05_BalancedTrees\obj\Debug\Ward_PR05_BalancedTrees.csproj.CoreCompileInputs.cache
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR05_BalancedTrees\Ward_PR05_BalancedTrees\obj\Debug\Ward_PR05_BalancedTrees.exe
+C:\Users\local-gew557.USER-A29833V\source\repos\Ward_PR05_BalancedTrees\Ward_PR05_BalancedTrees\obj\Debug\Ward_PR05_BalancedTrees.pdb
