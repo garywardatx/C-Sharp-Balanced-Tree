@@ -15,20 +15,20 @@ Object Nodes:
 
 
 Methods from the Binary Search Tree
-– Constructor(s): initializes an instance of the class
-– Insert : insert an item into the binary search tree
-– InOrder : print the binary search tree in order
-– Min : returns the smallest item in the subtree of a given node in the binary search tree
-– Max : returns the largest item in the subtree of a given node in the binary search tree
-– CountNodes : returns the number of nodes in the binary search tree
+- Constructor(s): initializes an instance of the class
+- Insert : insert an item into the binary search tree
+- InOrder : print the binary search tree in order
+- Min : returns the smallest item in the subtree of a given node in the binary search tree
+- Max : returns the largest item in the subtree of a given node in the binary search tree
+- CountNodes : returns the number of nodes in the binary search tree
 
 Methods added for the Red-Black Tree:
-– Flip Color
-– Left Rotate
-– Right Rotate
-– Left Right Rotate
-– Right Left Rotate
-– Search
+- Flip Color
+- Left Rotate
+- Right Rotate
+- Left Right Rotate
+- Right Left Rotate
+- Search
 
 The code was tested by generating random numbers until there are 20 unique numbers in the Binary Search Tree. The numbers are printed
 in order and include the node color as part of the output. 
